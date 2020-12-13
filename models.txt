@@ -22,5 +22,5 @@ train_rois_per_image   =300
 Learning rate          =0.004
 epochs                 =100
 
-!wget https://amazigh.s3.amazonaws.com/Tatiana_100_epochs.h5
+!wget https://amazigh.s3.amazonaws.com/mask_rcnn_openimages_0073.h5
 
